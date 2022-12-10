@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Alexashnov64
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- Hi, I’m Alex Ashnov
+-
+- I am a Content Creator/Game Developer based in the USA
+-
+- Some Links To My Socials Are:
+- Twitch: https://twitch.tv/Alex_Ashnov
+- YouTube: https://youtube.com/@Alex_Ashnov
+-
 - You can reach me in multiple ways. Such as:
-Discord Server: https://discord.gg/kQnYFMM8Gw
-Email: https://gmail.com/simplebot.gg@gmail.com
+- Discord Server: https://discord.gg/kQnYFMM8Gw
+- Email: https://gmail.com/simplebot.gg@gmail.com
